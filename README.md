@@ -20,6 +20,7 @@ For this assignment/challenge I was asked to create a simple calendar applicatio
 * Bootstrap
 * CSS
 * HTML
+* JavaScript
 
 ## Website
 
