@@ -31,6 +31,8 @@ body {
     border-top-left-radius: 15px;
     border-bottom-left-radius: 15px;
     border: 1px solid black;
+    display: flex;
+    align-items: center;
   }
   
   .row {
