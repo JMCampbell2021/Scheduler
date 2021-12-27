@@ -74,7 +74,8 @@ textarea {
   transition: all 0.3s ease-in-out;
 }
 
-  @media screen and (max-width: 768px), screen and (max-width: 575px) {
+  @media screen and (max-width: 768px), 
+  screen and (max-width: 575px) {
   .row {
     height: auto;
     margin-top: 20px;
@@ -82,6 +83,7 @@ textarea {
 
   .hour {
     padding-right: 17%;
+    border-radius: 0.25rem;
   }
 
   .saveBtn {
